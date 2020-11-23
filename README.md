@@ -5,7 +5,7 @@ November 23, 2020
 U.S. Bikeshare Data
 
 ### Description
-Calculates statistics and builds an interactive environment where a user can choose the data and filters for a dataset to analyze.
+Program that calculates statistics and builds an interactive environment where a user can choose the data and filters for a dataset to analyze.
 
 ### Files used
 bikeshare.py
