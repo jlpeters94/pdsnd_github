@@ -27,7 +27,7 @@ def get_filters():
             return city_select[city].lower(), month_select[month].lower(), day_select[day].lower()
         
         except ValueError:
-            print('Input unavailable. Try again.')
+            print('Input error. Try again.')
             
     print('-'*40)
     return city, month, day
