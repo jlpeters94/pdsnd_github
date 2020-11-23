@@ -146,13 +146,13 @@ def user_stats(df):
 def display_data(df):
     start = 0
     stop = 5
-    display = input("\nDo you want to see the raw data? Type 'yes' or 'no'\n")
+    display = input("\nDo you want to see the raw data? Enter yes or no\n")
     while display.lower() == 'yes':
         show = df.iloc[start:stop]
         print(show)
         start += 5
         stop += 5
-        display = input("\nDo you want to see more raw data? Type 'yes' or 'no'\n")
+        display = input("\nDo you want to see more raw data? Enter yes or no\n")
     
 def main():
     while True:
