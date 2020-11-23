@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+November 23, 2020
 
 ### Project Title
-Replace the Project Title
+U.S. Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+Calculates statistics and builds an interactive environment where a user can choose the data and filters for a dataset to analyze.
 
 ### Files used
-Include the files used
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Udacity
+GitHub
